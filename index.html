@@ -1,14 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+  
 <head>
+  #main website attachments
+   <link rel = "stylesheet" href = "cssforwillow.css"> 
+    <script src="javaforwillow.js"></script>
+  
+  #image carousel attachments
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
+  
+  
 <body>
+  #navbar links
+  <body>
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&equiv;</a>
+      <a href="index.html">Home</a>
+      <a href="eventsPage.html">Events</a>
+      <a href="discountPage.html">Discounts</a>
+      <a href="accessibleTransportation.html">Accessible Transportation</a>
+    </div>
+    
+ #more navbar stuff
+  <!-- Use any element to open the sidenav -->
+    <span class="menuButton" onclick="openNav()">&equiv;</span>
 
+  <!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+    <div>
+      <img src= "willowLogo.png" class="willowlogo">
+      <a href="index.html" class = "logo">Willow</a>
+    </div>
+    <div id="main">
+      <div class="container">
+        <img id="homePhoto" img src="senior-citizens-services.jpg">
+        <div class="bottomCenter">OUR MISSION
+        </div>
+      </div>
+      <p class="text"> Our mission is to facilitate social interaction between seniors, who would otherwise have few platforms to do so. We want to make sure you get the most out of our services with a wide range of functions, and an easy-to-use interface specially catered to users 55+. Supplying information about discounts, accessible transportation and all sorts of events, from art galleries to zoos, Willow will help you get out and meet other seniors.
+      </p>
+    </div>
+    
+    
+  
+#image carousel stuff
 <div class="container">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     
@@ -57,7 +96,9 @@
     </a>
   </div>
 </div>
-
+    
 </body>
+  
+  
 </html>
 
