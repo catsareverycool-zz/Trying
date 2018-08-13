@@ -38,7 +38,7 @@ p {
   position: relative;
   left: 375px;
 }
-#pageTop {
+.pageTop {
   backgroud-color: rgba(252, 252, 252, 0.4);
 }
 
