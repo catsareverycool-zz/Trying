@@ -21,9 +21,6 @@ p {
   font-family: 'willowtext';
   src: url('Mathanifo Script_dafont.ttf') format('truetype');
 }
-.fixedBar {
-  position: absolute;
-}
 
 .logo{
   font-family: willowtext !important;
