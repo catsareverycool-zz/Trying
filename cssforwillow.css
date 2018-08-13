@@ -55,7 +55,9 @@ p {
   margin-top: -80px;
   width: 150%;
 }
-
+.carousel-inner {
+  position: relative;
+  top: 50px;
 /*
 .container{
   width: 85%;
