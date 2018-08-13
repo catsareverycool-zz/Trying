@@ -40,6 +40,8 @@ p {
 }
 .pageTop {
   background-color: rgba(252, 252, 252, 0.4);
+  max-width: 500px;
+  argin: auto;
 }
 
 /*
