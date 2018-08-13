@@ -163,5 +163,8 @@ a:active {
   color: white;
 }
 #pic1 {
-  font-size: 400%;
+  font-size: 1000%;
+  position: relative;
+  right: 250px;
+  bottom: 550px;
 }
