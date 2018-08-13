@@ -22,7 +22,6 @@ p {
   src: url('Mathanifo Script_dafont.ttf') format('truetype');
 }
 .fixedBar {
-  position: fixed;
   position: absolute;
 }
 
