@@ -61,7 +61,7 @@ p {
 }
 */
 .bottomCenter{
-  position: absolute;
+  position: relative;
   bottom: 2px;
   right: 10px;
   left: 10px;
