@@ -38,7 +38,9 @@ p {
   position: relative;
   left: 375px;
 }
-
+#pageTop {
+  backgroud-color: rgba(252, 252, 252, 0.4);
+}
 
 /*
 .container{
@@ -57,7 +59,7 @@ p {
   width: 85%;
   height: 85%;
 }
-
+*/
 .bottomCenter{
   position: absolute;
   bottom: 2px;
@@ -67,7 +69,7 @@ p {
   font-family: Oswald, sans-serif;
   font-weight: bold;
 }
-*/
+
 
 
 
@@ -132,8 +134,24 @@ p {
  width: 12%;
  hight: 12%
 }
-
+/* link settings: no underline*/
 a {
+  text-decoration: none;
+
+}
+a:link {
+  text-decoration: none;
+
+}
+a:visited {
+  text-decoration: none;
+
+}
+a:hover {
+  text-decoration: none;
+
+}
+a:active {
   text-decoration: none;
 
 }
