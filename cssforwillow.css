@@ -21,7 +21,7 @@ p {
   font-family: 'willowtext';
   src: url('Mathanifo Script_dafont.ttf') format('truetype');
 }
-fixedBar {
+.fixedBar {
   position: fixed;
 }
 
