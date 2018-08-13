@@ -44,6 +44,8 @@ p {
   background-color: rgba(252, 252, 252, 0.4);
   max-width: 500px;
   margin: 0px auto;
+  width: 150%;
+  hight: 200%;
 }
 
 /*
