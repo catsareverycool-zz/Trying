@@ -23,6 +23,7 @@ p {
 }
 .fixedBar {
   position: fixed;
+  position: absolute;
 }
 
 .logo{
