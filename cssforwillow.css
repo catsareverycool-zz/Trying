@@ -24,7 +24,7 @@ p {
 .logo{
   font-family: willowtext !important;
   color: white;
-  font-size: 500% !important;
+  font-size: 550% !important;
   width: 400px !important;
   margin:0 auto !important;
   text-align: center !important;
@@ -34,7 +34,7 @@ p {
 .willowlogo{
   margin: auto !important;
   text-align: center !important;
-  height: 110px !important;
+  height: 120px !important;
   width: auto !important;
   float: left;
   position: relative;
